@@ -30,6 +30,7 @@ try {
 
 // Hardcoded fallback cache for when Redis isn't set up yet
 const FALLBACK_CACHE = {
+  "Why Apple, Google, and NVIDIA Got This AI Before You ?!": "fflwU81mx9Y",
   "The BEST AI tool for Artists? 👀": "xRx7yKg0n-U",
   "Seedance 2.0 Is Finally Here but ... 🤯": "ETeL0mYJxQs",
   "$122 BILLION to make CHATGPT the AI Super App 👀": "SJlxJMQkkgg",
